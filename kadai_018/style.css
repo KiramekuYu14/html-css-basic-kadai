@@ -1,6 +1,6 @@
 #top{
   width: 800px;
-  margin-top: 20px auto;
+  margin: 20px auto;
   text-align: center;
   background-color: #dcc9f4;
 }
@@ -43,7 +43,7 @@
 #bottom{
   width: 800px;
   height: 300px;
-  text-align: center;
+  margin: auto;
   background-color: #87ceeb;
 }
 .bottom-child01{
